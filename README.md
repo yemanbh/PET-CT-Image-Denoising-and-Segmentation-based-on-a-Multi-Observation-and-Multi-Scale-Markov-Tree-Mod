@@ -13,4 +13,7 @@ image. Adopted Hidden Markov Tree for segmentation with initial segmentation gen
 - run Project_GUI.m, and
 - and follow the instructions in the GUI
 
+## sample output
+![](confusionMatric_ROC_and_DSC/Selection_022.png "sample output image")
+
 
